@@ -1,0 +1,25 @@
+body {
+    background-color: #f4f4f9;
+    font-family: Arial, sans-serif;
+    margin: 30px;
+    line-height: 1.6;
+}
+
+h1 {
+    color: rgb(240, 124, 205);
+    text-align: center;
+}
+
+h2 {
+    color: #d8a06e;
+}
+
+p {
+    color: #ee5656;
+    font-size: 16px;
+}
+
+a {
+    color: rgb(134, 234, 134);
+    text-decoration: none;
+}
